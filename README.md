@@ -40,3 +40,6 @@ A file "grepCommand" will be generated with the 'search' portions of your sed co
 
 Each repo will be pulled and the search replace commands applied, then 
 
+# LICENCE
+
+I don't care. No warranty, GNU or Unlicense where permitted by your local jurisdictions.
