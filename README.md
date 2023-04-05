@@ -25,7 +25,6 @@ git@github.com:dotHTM/dothtm.github.io.git
 git@github.com:dotHTM/bash_hacks.git
 ```
 
-
 **sedCommand**
 
 ```
@@ -38,7 +37,9 @@ Then run `searchReplacer`.
 
 A file "grepCommand" will be generated with the 'search' portions of your sed commands.
 
-Each repo will be pulled and the search replace commands applied, then 
+Each repo will be pulled and the search replace commands applied.
+
+Check the tool's help via the `--help` flag.
 
 # LICENCE
 
